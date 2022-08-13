@@ -21,7 +21,7 @@ To begin check out the :doc:`Getting Started/About/About` section for further in
    :caption: Getting Started
    
    Getting Started/About/About
-   Getting Started/Prerequisites/Prerequisites
+   
 
 .. toctree:: 
    :hidden:
