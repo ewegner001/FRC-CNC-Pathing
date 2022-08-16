@@ -1,4 +1,9 @@
 About
 ==========
 
-Test change
+
+
+CNC Router
+
+    Router vs CNC 
+    Milling vs Turning

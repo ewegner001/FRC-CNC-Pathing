@@ -16,7 +16,7 @@ CAM Software
 ++++++++++++++++++++
 Instead of creating a :term:`CNC` :term:`path` manually to create the instructions to create these geometries, line-by-line (TODO:ADD EXAMPLE), there are :term:`CAM` softwares that have been developed that generate this :term:`gcode` for us.  This is much more reliable, faster and allows us to simulate what the machine will be doing virtually before running the actual program on the machine, and finding out we made a small error somewhere in the typically thousands of lines of code.  This also allows us to easily take operations from similar parts, and apply the same settings (same tool, same path type, ect...) and simply reselect the new geometry--making it much easier to produce parts and quickly make changes.  
 
-This documentation will be using Autodesk Fusion 360, as it is a free program (with an educational licence), does not require installation of a large program, and has some cloud and collaboration capabilities.  If you do not already have an educational account, follow the following instructions otherwise jump to :ref:`Getting Started/Prerequisites/Prerequisites:Installing Fusion 360`.
+This documentation will be using Autodesk Fusion 360, as it is a free program (with an educational licence), does not require installation of a large program, and has some cloud and collaboration capabilities.  If you do not already have an educational account, follow the following instructions otherwise jump to :ref:`Installing Fusion 360`.
 
 Create an Autodesk Account
 -----------------------------------
@@ -78,11 +78,47 @@ To install Fusion 360, ensure that you are logged into your Autodesk Account, an
   
   
 .. note:: 
-  If you see "Get Started" instead of "Get Product" as shown below, this means you are not signed in or do not have an educational account.  Click on "Get Started" and sign in if directed, otherwise follow the process in ::ref:`Autodesk Educational Account`.  
+  If you see "Get Started" instead of "Get Product" as shown below, this means you are not signed in or do not have an educational account.  Click on "Get Started" and sign in if directed, otherwise follow the process in ::ref:`Create an Autodesk Account`.  
 
 .. image:: Images/NotLoggedIn.png
   :width: 400
   :alt: Get Started
 
+Select "Access" to download the Autodesk Fustion 360 installer.
+
+.. image:: Images/Access.png
+  :width: 400
+  :alt: Access
+
+After the download is completed, run the installer (Fusion 360 Client Downloader) and follow the prompts to complete the installation.  Once the program opens you will have to login to your Autodesk account once again.
+
+
 Join a Fusion Team
 -----------------------------
+To facilitate collaboration, Fusion 360 has the option to join teams to easily share files between users.  
+
+To configure a new team, follow the instructions `here <https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-signup-for-a-new-Fusion-team-hub.html>`_.  
+
+If there is a team that you are joining, follow the following steps:
+
+#. Open the Data Panel in the upper left hand corner:
+
+.. image:: Images/DataPanel.png
+  :width: 400
+  :alt: Data Panel
+
+#. Select the Team Account icon:
+
+.. image:: Images/TeamAccount.png
+  :width: 400
+  :alt: Team Account
+
+#. Select Create or Join Team:
+
+.. image:: Images/CreateOrJoinTeam.png
+  :width: 400
+  :alt: Create Or Join Team
+
+#. If your email has been invited to a team, select the team to be added to the workspace.
+
+
