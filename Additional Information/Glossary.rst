@@ -9,8 +9,14 @@ Glossary
   CAM
     Computer Aided Manufacturing (CAM) is a software that generates :term:`gcode` from a :term:`CAD` designed part, and the user's instructions.  These CAM softwares vastly improve the process of using :term:`CNC` machines are increasingly being built into CAD softwares.
 
+  Chip Welding
+    TODO
+
   CNC
     Computer Numerical Control (CNC) is a method of using a computer to control a machine's movenments precisely based on instructions interpreted from :term:`gcode`.  Most commonly this refers to CNC machining processes such as CNC mills, but there are many other applications of CNC, such as turning (CNC lathes), bending (CNC brakes), welding and even additive manufacturing (3D printing).
+
+  Coolant
+    Coolant is cutting fluid in CNC milles that clears chips and keeps the :term:`Endmill` and material from overheating.  This is particularly useful in preventing :term:`Chip Welding` and increases the rate that material can be removed from a part.  In :term:`Router`s, this may be replaced by a air nozzle.
 
   Endmill
     An endmill is a cutting tool that is designed to cut both axially and radially.  These are typically used in CNC applications.
@@ -43,6 +49,6 @@ Glossary
     On a :term:`CNC`, the spindle is the portion of the mill that spins the tool to cut the material.
 
   Work Holding
-    Work Hoding is the fixturing and process by which stock (material that has not yet gone through the operation) is held in place while it is being machined.
+    Work Holding is the fixturing and process by which stock (material that has not yet gone through the operation) is held in place while it is being machined.
 
 

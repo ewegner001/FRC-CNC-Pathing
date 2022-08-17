@@ -56,3 +56,8 @@ To begin check out the :doc:`Getting Started/About/About` section for further in
    Additional Information/gcode Reference
    Additional Information/Glossary
    Additional Information/Contact Information
+
+   .. Finishing passes
+   .. Tolerance and clearance
+   .. common issues
+   .. operation order
