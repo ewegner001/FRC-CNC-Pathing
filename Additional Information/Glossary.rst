@@ -31,7 +31,7 @@ Glossary
     In :term:`CNC` manufacturing, a path refers to a section of :term:`gcode`, or a subset of a program that a CNC can follow.  
 
   Router
-    In :term:`CNC` milling, a router differs from that of a full CNC mill in that its spindle spins much faster and typically less precise control over the RPM and do not have coolant.  As such, 1 :term:`flute` :term:`Endmill`s are often used to reduce the heat produced.  Routers are designed to primarily cut softer materials such as wood or plastic, but can sometimes cut soft metals such as aluminum.  Larger CNC machines typically can work with much harder materials, but usually do not use wood due to the coolant used.  These spindles are much stronger and have greater control of their generally lower RPM range.  Due to this, endmills with different numbers of :term:`flutes` can be used depending on the application.  
+    In :term:`CNC` milling, a router differs from that of a full CNC mill in that its spindle spins much faster and typically less precise control over the RPM and do not have coolant.  As such, 1 :term:`flute` :term:`Endmill` s are often used to reduce the heat produced.  Routers are designed to primarily cut softer materials such as wood or plastic, but can sometimes cut soft metals such as aluminum.  Larger CNC machines typically can work with much harder materials, but usually do not use wood due to the coolant used.  These spindles are much stronger and have greater control of their generally lower RPM range.  Due to this, endmills with different numbers of :term:`flute` s can be used depending on the application.  
 
   Stock
     Stock is refering to the base material that is being machined away in :term:`Subtractive Manufacturing`.

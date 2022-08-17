@@ -1,7 +1,7 @@
 Intro to Endmills
 ========================
 
-There are many cutters that can be used in :term:`Subtractive Manufacturing` that have different use cases.  THe most common of these cutters used are classified as :term:`Endmill`s. 
+There are many cutters that can be used in :term:`Subtractive Manufacturing` that have different use cases.  THe most common of these cutters used are classified as :term:`Endmill` s. 
 
 Endmills
 ++++++++++++++++++

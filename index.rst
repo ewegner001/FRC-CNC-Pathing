@@ -33,7 +33,7 @@ To begin check out the :doc:`Getting Started/About/About` section for further in
    :caption: CAM Preparation
    
    CAM Preparation/Part Nesting/Part Nesting
-   CAM Preparation/Setup/Setup/Setup
+   CAM Preparation/Setup/Setup
    CAM Preparation/Path Library/Path Library
    CAM Preparation/Custom gcode/Custom gcode
    CAM Preparation/Multiple Origins/Multiple Origins

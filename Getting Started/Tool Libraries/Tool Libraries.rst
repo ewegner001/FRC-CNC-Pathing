@@ -21,12 +21,12 @@ Precompiled Tool Libraries
 
 Precompiled tool libraries are avalible here:
 
-Hass
+Hass Tool Library
 -----------------
 
 TODO
 
-OMIO
+OMIO Tool Library
 ---------------------
 
 TODO
