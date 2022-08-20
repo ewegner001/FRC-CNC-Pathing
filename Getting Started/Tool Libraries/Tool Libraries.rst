@@ -29,4 +29,6 @@ TODO
 OMIO Tool Library
 ---------------------
 
-TODO
+The OMIO is used by FRC 1714 and the following library has been complied from their tuning:
+
+:download:`OMIO Tool Library V1.1 <../Tool Libraries/Libraries/MORE Tool Library V1.1.tools>`.
