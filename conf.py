@@ -14,7 +14,10 @@ author = 'Everen Wegner'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx.ext.autosectionlabel']
+extensions = ['sphinx.ext.autosectionlabel', 'sphinx.ext.todo']
+
+# Display todos by setting to True
+todo_include_todos = True
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
