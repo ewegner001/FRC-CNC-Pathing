@@ -20,8 +20,9 @@ There are several key imortant aspects of an endmill depending on the applicatio
     :width: 400
     :alt: Endmill Diagram 
 
+
 * **Diameter**:  The diameter determines the minimum internal radius that the endmill can cut and has significant impact over how much material can be removed at a time.
-* **Length**:  There are several components to the length of an endmill, but in general, the length of an endmill determines tha maximum depth of cut that is possible.  Typically, minimizing this length is desired, as this increases the range of the machine in the :term:`Z` axis and reduces :term`Chatter`.
+* **Length**:  There are several components to the length of an endmill, but in general, the length of an endmill determines tha maximum depth of cut that is possible.  Typically, minimizing this length is desired, as this increases the range of the machine in the :term:`Z` axis and reduces :term:`Chatter`
 * **Flutes**:  A :term:`Flute` is a cutting channels in an endmill that forms and evacuates chips from the tool.  There can be many different numbers of flutes depending on the application.  In general, a higher flute count results in a faster :term:`Feedrate`, a better surface finish and a stronger tool, but a smaller cutting rate and more vibration (see :term:`Chatter`) than an endmill with a lower number of flutes.  Typically for :term:`Routers`, 1-flute endmills are used due to their faster :term:`Spindle`, and 2-5 flute endmills are used in most CNC mills however higher and variable flute count endmills exist (see below).
 
 .. image:: Images/FluteCount.webp

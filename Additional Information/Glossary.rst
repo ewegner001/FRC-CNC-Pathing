@@ -16,7 +16,12 @@ Glossary
     Chatter is the undesired vibrations that occur in :term:`Subtractive Manufacturing` processes.  These vibrations can create an undesirable :term:`Surface Finish`, cause the :term:`Work Holding` to fail and even damage the tool or the part being machined.  See :doc:`Common Issues` for more imformation.
 
   Chip Welding
-    TODO
+    .. todo:: 
+      Complete def
+
+  Collet
+    .. todo:: 
+      Complete def
 
   CNC
     Computer Numerical Control (CNC) is a method of using a computer to control a machine's movenments precisely based on instructions interpreted from :term:`gcode`.  Most commonly this refers to CNC machining processes such as CNC mills, but there are many other applications of CNC, such as turning (CNC lathes), bending (CNC brakes), welding and even additive manufacturing (3D printing).
@@ -29,6 +34,7 @@ Glossary
 
   Feedrate
     The feedrate is how fast a :term:`CNC` machine moves the tool when the tool is cutting material.
+  
   Flute
     A flute is a cutting edge or channel in an :term:`Endmill`.  The number of theses flutes changes the rate at which material is being removed from the stock at a given feed rate as well as the size of each bit of material that is removed.  A higher number of flutes generally produces a better "shinier" surface finish due to the finer amount of material reduced, and increases the strength of the endmill due to the flutes reducing the size of the core (solid portion in the center of the endmill).
 

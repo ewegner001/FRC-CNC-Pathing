@@ -57,7 +57,16 @@ To begin check out the :doc:`Getting Started/About/About` section for further in
    Additional Information/Glossary
    Additional Information/Contact Information
 
-   .. Finishing passes
-   .. Tolerance and clearance
-   .. common issues
-   .. operation order
+.. todo:: 
+   Finishing passes
+.. todo:: 
+   Tolerance and clearance
+.. todo:: 
+   common issues
+.. todo:: 
+   operation order
+
+
+TODO List
+++++++++++++++++
+.. todolist:: 
