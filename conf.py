@@ -20,7 +20,7 @@ extensions = ['sphinx.ext.autosectionlabel', 'sphinx.ext.todo', 'sphinxcontrib.i
 todo_include_todos = True
 
 # Configure image defaults
-images_config = {'default_image_width': 'auto', 'show_caption': True, 'align': 'center'}
+images_config = {'default_image_width': 'auto', 'default_image_height': 'auto', 'show_caption': True, 'align': 'center'}
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
