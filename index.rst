@@ -32,7 +32,7 @@ To begin check out the :doc:`Getting Started/About/About` section for further in
    :hidden:
    :caption: CAM Preparation
    
-   CAM Preparation/Part Nesting/Part Nesting
+   CAM Preparation/Part Layout/Part Layout
    CAM Preparation/Setup/Setup
    CAM Preparation/Path Library/Path Library
    CAM Preparation/Custom gcode/Custom gcode
@@ -62,7 +62,7 @@ To begin check out the :doc:`Getting Started/About/About` section for further in
 .. todo:: 
    Tolerance and clearance
 .. todo:: 
-   common issues
+   common issues - lost origin
 .. todo:: 
    operation order
 
