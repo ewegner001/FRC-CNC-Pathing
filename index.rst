@@ -62,7 +62,7 @@ To begin check out the :doc:`Getting Started/About/About` section for further in
 .. todo:: 
    Tolerance and clearance
 .. todo:: 
-   common issues - lost origin
+   common issues - lost origin, internal radii
 .. todo:: 
    operation order
 
