@@ -14,13 +14,13 @@ author = 'Everen Wegner'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx.ext.autosectionlabel', 'sphinx.ext.todo', 'sphinxcontrib.images',]
+extensions = ['sphinx.ext.autosectionlabel', 'sphinx.ext.todo'] #, 'sphinxcontrib.images',
 
 # Display todos by setting to True
 todo_include_todos = True
 
 # Configure image defaults
-images_config = {'default_image_width': 'auto', 'default_image_height': 'auto', 'show_caption': True, 'align': 'center'}
+# images_config = {'default_image_width': 'auto', 'default_image_height': 'auto', 'show_caption': True, 'align': 'center'}
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
