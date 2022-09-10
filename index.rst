@@ -65,6 +65,8 @@ To begin check out the :doc:`Getting Started/About/About` section for further in
    common issues - lost origin, internal radii
 .. todo:: 
    operation order
+.. todo:: 
+   Conventional vs climb milling
 
 
 TODO List
