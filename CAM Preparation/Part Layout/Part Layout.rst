@@ -61,9 +61,28 @@ To begin parts must be created or imported from a :term:`CAD` software and impor
 
 
 Importing Files into Fusion 360
-+++++++++++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For importing a file from a Autodesk software, native parts should be easily opened by Fusion 360.  If a part is created in any other software, the ``.STP`` or ``.STEP`` file format is recommended.  
 
-To import a part 
+To import a part, first select "Show Data Panel" in the upper left hand of the screen.
+
+.. image:: Images/ShowDataPanel.png
+    :alt: Show Data Panel
+
+Then the blue "Upload" button
+
+.. image:: Images/Upload.png
+    :alt: Upload
+
+Then "Select Files" to open a window to select your ``.STP`` or ``.STEP`` file.  
+
+.. image:: Images/SelectFiles.png
+    :alt: Select Files
+
+
+
+
+
+
 

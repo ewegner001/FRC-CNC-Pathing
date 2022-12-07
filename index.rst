@@ -67,6 +67,8 @@ To begin check out the :doc:`Getting Started/About/About` section for further in
    operation order
 .. todo:: 
    Conventional vs climb milling
+.. todo:: 
+   3d CNC paths
 
 
 TODO List
