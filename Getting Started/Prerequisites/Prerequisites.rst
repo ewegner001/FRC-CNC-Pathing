@@ -23,43 +23,36 @@ Create an Autodesk Account
 
 
 .. image:: Images/Fusion360Logo.webp
-  :width: 400
   :alt: Autodesk Fusion 360 Logo
 
 If you do not already have an Autodesk Account, you can create one on `Autodesk's website <https://www.autodesk.com/education/edu-software/>`_ by clicking the black "Get Started".  Otherwise if you already have an Autodesk Account skip to :ref:`Installing Fusion 360`.
 
 .. image:: Images/GetStarted.png
-  :width: 600
   :alt: Get Started
 
 Then select "Create Account"
 
 
 .. image:: Images/CreateAccount.png
-  :width: 400
   :alt: Create Account
 
 
 Fill out your information and verify your email:
 
 .. image:: Images/EducationalInfo.png
-  :width: 400
   :alt: Example Prompt
   
 .. image:: Images/AccountSet.png
-  :width: 400
   :alt: Account Set
 
 Then, log in to your account and return to `Autodesk's Educational page <https://www.autodesk.com/education/edu-software/>`_.  You will likely need to provide more information to verify your account.
 
 .. image:: Images/Verification.png
-  :width: 400
   :alt: Educational Account Verification
 
 Once you verify your information you should see this confirmation:
 
 .. image:: Images/Confirmation.png
-  :width: 400
   :alt: Educational Account Confirmation
 
 
@@ -73,7 +66,6 @@ Now that you have an Autodesk Account it is now time to install Autodesk Fusion 
 To install Fusion 360, ensure that you are logged into your Autodesk Account, and then go to the `Autodesk EDU Products homepage <https://www.autodesk.com/education/edu-software/>` and select "Get Product" (see below).
 
 .. image:: Images/GetProduct.png
-  :width: 400
   :alt: Get Product
   
   
@@ -81,13 +73,11 @@ To install Fusion 360, ensure that you are logged into your Autodesk Account, an
   If you see "Get Started" instead of "Get Product" as shown below, this means you are not signed in or do not have an educational account.  Click on "Get Started" and sign in if directed, otherwise follow the process in ::ref:`Create an Autodesk Account`.  
 
 .. image:: Images/NotLoggedIn.png
-  :width: 400
   :alt: Get Started
 
 Select "Access" to download the Autodesk Fustion 360 installer.
 
 .. image:: Images/Access.png
-  :width: 400
   :alt: Access
 
 After the download is completed, run the installer (Fusion 360 Client Downloader) and follow the prompts to complete the installation.  Once the program opens you will have to login to your Autodesk account once again.
@@ -104,19 +94,16 @@ If there is a team that you are joining, follow the following steps:
 #. Open the Data Panel in the upper left hand corner:
 
 .. image:: Images/DataPanel.png
-  :width: 400
   :alt: Data Panel
 
 #. Select the Team Account icon:
 
 .. image:: Images/TeamAccount.png
-  :width: 400
   :alt: Team Account
 
 #. Select Create or Join Team:
 
 .. image:: Images/CreateOrJoinTeam.png
-  :width: 400
   :alt: Create Or Join Team
 
 #. If your email has been invited to a team, select the team to be added to the workspace.

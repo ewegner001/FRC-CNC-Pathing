@@ -16,22 +16,29 @@ Including and working off of a common fixture plate can be very useful to refere
 On `FRC 930 <httpe://team930.com/>`_, a common sacrificial fixture plate of 1" thick aluminum was used to attach plate parts to.  More details on this method can be found at :doc:`/CNC Manufacturing/Haas`.
 
 .. image:: Images/930FixtureV2.png
-    :width: 400
     :align: center
     :alt: 930 Fixture Plate Model
 
-Tube Magic
+Tube Fixturing
 -------------------
 
-The `Tube Magic <https://ozzyboards.com/tubemagic/>`_ system is a workholding solution designed for standard FRC tubing. 
+
+The `WCP OMIO CNC Tube Fixture <https://wcproducts.com/products/omio-cnc-and-accessories>`_, is is a workholding solution designed for standard FRC tubing and the OMIO CNC router.
+
+.. image:: Images/WCP.webp
+    :align: center
+    :alt: WCP OMIO CNC Tube Fixture
+
+
+
+The `Tube Magic <https://ozzyboards.com/tubemagic/>`_ system is similar and is utilized by FRC 1714.  However, these clamps are not as rigid as the fixturing nuts utilized by the WCP version.
 
 .. image:: Images/TubeMagic.jpg
     :align: center
     :alt: Tube Magic V2
-    :width: 400
+
 
 Due to the clamps being well below and offset from the tool, it is not usually helpful to include it, unless the operation goes particularly deep into the part (see :doc:`/CNC Manufacturing/OMIO`).
-
 
 
 Part Nesting
@@ -57,11 +64,8 @@ When nesting your parts for batch production, keep in mind the following conside
 To begin parts must be created or imported from a :term:`CAD` software and imported into Fusion 360.  If you are using a native Fusion 360 part, skip to :ref:`FRC Best Practices`, otherwise continue to :ref:`importing files into fusion 360`. 
 
 
-
-
-
 Importing Files into Fusion 360
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+++++++++++++++++++++++++++++++++++++
 
 For importing a file from a Autodesk software, native parts should be easily opened by Fusion 360.  If a part is created in any other software, the ``.STP`` or ``.STEP`` file format is recommended.  
 
@@ -69,16 +73,22 @@ To import a part, first select "Show Data Panel" in the upper left hand of the s
 
 .. image:: Images/ShowDataPanel.png
     :alt: Show Data Panel
+    :align: center
+
 
 Then the blue "Upload" button
 
 .. image:: Images/Upload.png
     :alt: Upload
+    :align: center
 
-Then "Select Files" to open a window to select your ``.STP`` or ``.STEP`` file.  
+
+Then "Select Files" to open a file explorer window to select your ``.STP`` or ``.STEP`` file to upload.  
 
 .. image:: Images/SelectFiles.png
     :alt: Select Files
+    :align: center
+
 
 
 
